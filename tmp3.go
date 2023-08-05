@@ -1,5 +1,5 @@
 package tmp3
 
 func TmpVersion() {
-	println("[v2]")
+	println("[v0-v1]")
 }
